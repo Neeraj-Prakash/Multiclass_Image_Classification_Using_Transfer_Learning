@@ -28,7 +28,7 @@ Here is a good introduction to "Transfer Learning" by Andrew NG. [Link](https://
   
   
 ## Evaluating Model
-The trained was evaluated on the 'Test set', which was not included in the training. 
+The trained model was evaluated on the 'Test set', which was not included in the training. 
 The model gets around **89%** of accuracy in the given set.  
 
 I also predicted the labels on unlabled images in the given dataset using my trained model.  
